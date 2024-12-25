@@ -8,7 +8,7 @@
 
 <img src="https://i.imgur.com/Mz7cbAV.png" alt="The official banner of KingdomsX plugin">
 
-Battles for might, land and glory.
+Battles for might, land and glory. Auto build.
 
 KingdomsX is plugin similar to Factions which provides more advanced core features and introduces new mechanics such as
 turrets, structures and invasions to make the game more fun.
